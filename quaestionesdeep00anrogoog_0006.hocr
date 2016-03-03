@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesdeep00anrogoog_0006.png"; bbox 0 0 3296 5342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 104 2279 1321 2368">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 104 2279 1321 2368">
+     <span class='ocr_line' id='line_1_1' title="bbox 104 2279 1321 2368; baseline -0.001 -14"><span class='ocrx_word' id='word_1_1' title='bbox 104 2280 429 2368; x_wconf 79' lang='lat' dir='ltr'>QUAESTIONES</span> <span class='ocrx_word' id='word_1_2' title='bbox 466 2282 530 2354; x_wconf 84' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 569 2280 916 2354; x_wconf 82' lang='lat' dir='ltr'><strong>EPITHETORUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 950 2279 1321 2354; x_wconf 77' lang='lat' dir='ltr'>COMPOSITORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 214 2485 1209 2588">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 214 2485 1209 2588">
+     <span class='ocr_line' id='line_1_2' title="bbox 214 2485 1209 2588; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 214 2512 306 2586; x_wconf 68' lang='grc' dir='ltr'>σευ</span> <span class='ocrx_word' id='word_1_6' title='bbox 341 2514 473 2586; x_wconf 80' lang='lat' dir='ltr'><strong>APUD</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 507 2485 801 2587; x_wconf 68' lang='lat' dir='ltr'><strong>AESCHYLUM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 836 2514 896 2586; x_wconf 74' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_9' title='bbox 927 2513 1209 2588; x_wconf 73' lang='lat' dir='ltr'><strong>EURIPIDEM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1652 5342">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1652 5342">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1652 5342; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1652 5342; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
